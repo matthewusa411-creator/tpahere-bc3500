@@ -1,0 +1,11 @@
+{
+  "required": true,
+  "package": "com.matt.shulkerdupe.mixin",
+  "compatibilityLevel": "JAVA_25",
+  "mixins": [
+    "ShulkerBoxBlockMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
